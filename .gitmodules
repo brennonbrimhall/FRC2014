@@ -1,0 +1,9 @@
+[submodule "FRC2014Vision"]
+	path = FRC2014Vision
+	url = git@github.com:brennonbrimhall/FRC2014Vision.git
+[submodule "FRC2014Robot"]
+	path = FRC2014Robot
+	url = git@github.com:brennonbrimhall/FRC2014Robot.git
+[submodule "FRC2014Prototyping"]
+	path = FRC2014Prototyping
+	url = git@github.com:brennonbrimhall/FRC2014Prototyping.git
